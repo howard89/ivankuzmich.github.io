@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Noticia+Text' rel='stylesheet' type='text/css'>
+   </head>
+  <body>
+    <h1>Wedding</h1>
+    <img src="images/mozila.jpeg" alt="My test image">
+    <p>YOUR WEDDING PLANNING ADVENTURE STARTS HERE.</p>
+    <ul>
+      <li>dresses</li>
+      <li>photos</li> 
+      <li>шарики</li>
+    </ul> 
+    <p> Have you been looking at wedding dresses since you were 10? You're not alone. Start your wedding planning by exploring thousands of photos. Then save what inspires you.</p>
+    <p><a href="http://www.mywedding.com/">Wedding</a> is beautiful</p>
+    <script src="scripts/main.js"></script> 
+  </body>
+</html>
